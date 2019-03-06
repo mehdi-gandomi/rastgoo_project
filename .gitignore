@@ -1,0 +1,4 @@
+/vendor/
+!/vendor\slim\slim\Slim\Handlers\Error.php
+/logs/*
+!/logs/README.md
